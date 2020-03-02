@@ -1,5 +1,15 @@
 # vue_crash_todolist
 
+## requirments
+Nodejs -- Tested with Node 12.13.0
+https://nodejs.org/en/
+
+VueCLi -- Tested with VueCli 4.2.3
+https://cli.vuejs.org/guide/installation.html
+```
+npm install -g @vue/cli
+```
+
 ## Project setup
 ```
 npm install
@@ -9,6 +19,12 @@ npm install
 ```
 npm run serve
 ```
+
+### you can run the project from the Vue User interface by typing 
+```
+vue ui
+```
+
 
 ### Compiles and minifies for production
 ```
