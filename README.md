@@ -1,4 +1,6 @@
 # vue_crash_todolist
+This is a VueJs tutorial from Traversy Media:
+https://www.youtube.com/watch?v=Wy9q22isx3U&t=1523s
 
 ## requirements
 Nodejs -- Tested with Node 12.13.0
